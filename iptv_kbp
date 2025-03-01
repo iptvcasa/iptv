@@ -1,0 +1,661 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/4z2xnjzdgdb247pmnv15"
+#EXTINF:-1 tvg-id="AandE(Portuguese).br(m3u4u)" tvg-name="A&E | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77795_dark_360w_270h.png" group-title="BRAZIL",A&E | FHD
+http://supersonictv.live:8080/live/899559/316805/84935.m3u8
+#EXTINF:-1 tvg-id="AgroBrasilTV(Portuguese).br(m3u4u)" tvg-name="Agro+ | FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Agro%2B.png" group-title="BRAZIL",Agro+ | FHD
+http://supersonictv.live:8080/live/899559/316805/85147.m3u8
+#EXTINF:-1 tvg-id="AgroBrasilTV(Portuguese).br(m3u4u)" tvg-name="AgroBrasil TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Agro%2B.png" group-title="BRAZIL",AgroBrasil TV
+http://supersonictv.live:8080/live/899559/316805/85148.m3u8
+#EXTINF:-1 tvg-id="AMC(Portuguese).br(m3u4u)" tvg-name="AMC | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s92009_dark_360w_270h.png" group-title="BRAZIL",AMC | FHD
+http://supersonictv.live:8080/live/899559/316805/85125.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet(Portuguese).br(m3u4u)" tvg-name="Animal Planet | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18651_dark_360w_270h.png" group-title="BRAZIL",Animal Planet | FHD
+http://supersonictv.live:8080/live/899559/316805/84936.m3u8
+#EXTINF:-1 tvg-id="AXN(Portuguese).br(m3u4u)" tvg-name="AXN | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75580_dark_360w_270h.png" group-title="BRAZIL",AXN | FHD
+http://supersonictv.live:8080/live/899559/316805/84938.m3u8
+#EXTINF:-1 tvg-id="BabyTV(Portuguese).br(m3u4u)" tvg-name="Baby | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97985_dark_360w_270h.png" group-title="BRAZIL",Baby | FHD
+http://supersonictv.live:8080/live/899559/316805/84939.m3u8
+#EXTINF:-1 tvg-id="Band(Portuguese).br(m3u4u)" tvg-name="Band | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41309_dark_360w_270h.png" group-title="BRAZIL",Band | FHD
+http://supersonictv.live:8080/live/899559/316805/84940.m3u8
+#EXTINF:-1 tvg-id="BandNews(Portuguese).br(m3u4u)" tvg-name="Band News | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54679_dark_360w_270h.png" group-title="BRAZIL",Band News | FHD
+http://supersonictv.live:8080/live/899559/316805/84941.m3u8
+#EXTINF:-1 tvg-id="BandSports(Portuguese).br(m3u4u)" tvg-name="Band Sports | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54680_dark_360w_270h.png" group-title="BRAZIL",Band Sports | FHD
+http://supersonictv.live:8080/live/899559/316805/84942.m3u8
+#EXTINF:-1 tvg-id="BIS(Portuguese).br(m3u4u)" tvg-name="BIS | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s94122_dark_360w_270h.png" group-title="BRAZIL",BIS | FHD
+http://supersonictv.live:8080/live/899559/316805/84943.m3u8
+#EXTINF:-1 tvg-id="Cartoonito(Portuguese).br(m3u4u)" tvg-name="Boomerang | FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png" group-title="BRAZIL",Boomerang | FHD
+http://supersonictv.live:8080/live/899559/316805/84944.m3u8
+#EXTINF:-1 tvg-id="CanalBrasil(Portuguese).br(m3u4u)" tvg-name="Canal Brasil | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s94564_dark_360w_270h.png" group-title="BRAZIL",Canal Brasil | FHD
+http://supersonictv.live:8080/live/899559/316805/84945.m3u8
+#EXTINF:-1 tvg-id="CanalEducacao(Portuguese).br(m3u4u)" tvg-name="Canal Educação | FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/CANALEDUCA%C3%87%C3%83O.png" group-title="BRAZIL",Canal Educação | FHD
+http://supersonictv.live:8080/live/899559/316805/85337.m3u8
+#EXTINF:-1 tvg-id="CanalEducacao(Portuguese).br(m3u4u)" tvg-name="Canal Educação | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/CANALEDUCA%C3%87%C3%83O.png" group-title="BRAZIL",Canal Educação | HD
+http://supersonictv.live:8080/live/899559/316805/85338.m3u8
+#EXTINF:-1 tvg-id="CanalRural(Portuguese).br(m3u4u)" tvg-name="Canal Rural | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38704_dark_360w_270h.png" group-title="BRAZIL",Canal Rural | FHD
+http://supersonictv.live:8080/live/899559/316805/85153.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Canale 7 Itália" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Canale_7.png/260px-Canale_7.png" group-title="BRAZIL",Canale 7 Itália
+http://supersonictv.live:8080/live/899559/316805/85154.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork(Portuguese).br(m3u4u)" tvg-name="Cartoon Network | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16142_dark_360w_270h.png" group-title="BRAZIL",Cartoon Network | FHD
+http://supersonictv.live:8080/live/899559/316805/84946.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CBN São Paulo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/CBN_logo.svg/2560px-CBN_logo.svg.png" group-title="BRAZIL",CBN São Paulo
+http://supersonictv.live:8080/live/899559/316805/85160.m3u8
+#EXTINF:-1 tvg-id="ChefTv(Portuguese).br(m3u4u)" tvg-name="Chef TV | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77910_dark_360w_270h.png" group-title="BRAZIL",Chef TV | FHD
+http://supersonictv.live:8080/live/899559/316805/84947.m3u8
+#EXTINF:-1 tvg-id="Cinecanal(Portuguese).br(m3u4u)" tvg-name="Cinecanal | FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="BRAZIL",Cinecanal | FHD
+http://supersonictv.live:8080/live/899559/316805/84987.m3u8
+#EXTINF:-1 tvg-id="Cinemax(Portuguese).br(m3u4u)" tvg-name="Cinemax | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104743_dark_360w_270h.png" group-title="BRAZIL",Cinemax | FHD
+http://supersonictv.live:8080/live/899559/316805/84948.m3u8
+#EXTINF:-1 tvg-id="Cinemax(Portuguese).br(m3u4u)" tvg-name="Cinemax | HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104743_dark_360w_270h.png" group-title="BRAZIL",Cinemax | HD
+http://supersonictv.live:8080/live/899559/316805/84949.m3u8
+#EXTINF:-1 tvg-id="CNNBrasil(Portuguese).br(m3u4u)" tvg-name="CNN Brasil | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114159_dark_360w_270h.png" group-title="BRAZIL",CNN Brasil | FHD
+http://supersonictv.live:8080/live/899559/316805/84950.m3u8
+#EXTINF:-1 tvg-id="CNNEnEspanol(Portuguese).br(m3u4u)" tvg-name="CNN Espanhol | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.svg/599px-Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.svg.png" group-title="BRAZIL",CNN Espanhol | HD
+http://supersonictv.live:8080/live/899559/316805/84951.m3u8
+#EXTINF:-1 tvg-id="CNNInternational(Portuguese).br(m3u4u)" tvg-name="CNN Internacional | FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png" group-title="BRAZIL",CNN Internacional | FHD
+http://supersonictv.live:8080/live/899559/316805/84952.m3u8
+#EXTINF:-1 tvg-id="CNT(Portuguese).br(m3u4u)" tvg-name="CNT | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s36928_dark_360w_270h.png" group-title="BRAZIL",CNT | FHD
+http://supersonictv.live:8080/live/899559/316805/85163.m3u8
+#EXTINF:-1 tvg-id="Combate(Portuguese).br(m3u4u)" tvg-name="Combate | 4K" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s124758_dark_360w_270h.png" group-title="BRAZIL",Combate | 4K
+http://supersonictv.live:8080/live/899559/316805/85165.m3u8
+#EXTINF:-1 tvg-id="Combate(Portuguese).br(m3u4u)" tvg-name="Combate | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s124758_dark_360w_270h.png" group-title="BRAZIL",Combate | FHD
+http://supersonictv.live:8080/live/899559/316805/84953.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral(Portuguese).br(m3u4u)" tvg-name="Comedy Central | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75832_dark_360w_270h.png" group-title="BRAZIL",Comedy Central | FHD
+http://supersonictv.live:8080/live/899559/316805/84954.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Conmebol | 4K" tvg-logo="https://auvaromaia.com/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-28-at-11.50.29-640x333.jpeg" group-title="BRAZIL",Conmebol | 4K
+http://supersonictv.live:8080/live/899559/316805/85168.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Conmebol 1 | FHD" tvg-logo="https://auvaromaia.com/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-28-at-11.50.29-640x333.jpeg" group-title="BRAZIL",Conmebol 1 | FHD
+http://supersonictv.live:8080/live/899559/316805/85126.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Conmebol 1 | HD" tvg-logo="https://auvaromaia.com/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-28-at-11.50.29-640x333.jpeg" group-title="BRAZIL",Conmebol 1 | HD
+http://supersonictv.live:8080/live/899559/316805/85166.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Conmebol 2 | FHD" tvg-logo="https://auvaromaia.com/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-28-at-11.50.29-640x333.jpeg" group-title="BRAZIL",Conmebol 2 | FHD
+http://supersonictv.live:8080/live/899559/316805/85127.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Conmebol 2 | HD" tvg-logo="https://auvaromaia.com/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-28-at-11.50.29-640x333.jpeg" group-title="BRAZIL",Conmebol 2 | HD
+http://supersonictv.live:8080/live/899559/316805/85167.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Conmebol 3 | FHD" tvg-logo="https://auvaromaia.com/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-28-at-11.50.29-640x333.jpeg" group-title="BRAZIL",Conmebol 3 | FHD
+http://supersonictv.live:8080/live/899559/316805/85128.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Conmebol 4 | FHD" tvg-logo="https://auvaromaia.com/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-28-at-11.50.29-640x333.jpeg" group-title="BRAZIL",Conmebol 4 | FHD
+http://supersonictv.live:8080/live/899559/316805/85129.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Conmebol 5 | HD" tvg-logo="https://auvaromaia.com/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-28-at-11.50.29-640x333.jpeg" group-title="BRAZIL",Conmebol 5 | HD
+http://supersonictv.live:8080/live/899559/316805/85169.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Conmebol 6 | HD" tvg-logo="https://auvaromaia.com/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-28-at-11.50.29-640x333.jpeg" group-title="BRAZIL",Conmebol 6 | HD
+http://supersonictv.live:8080/live/899559/316805/85170.m3u8
+#EXTINF:-1 tvg-id="Cultura(Portuguese).br(m3u4u)" tvg-name="Cultura | FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/800px-Cultura_logo_2013.svg.png" group-title="BRAZIL",Cultura | FHD
+http://supersonictv.live:8080/live/899559/316805/85333.m3u8
+#EXTINF:-1 tvg-id="Cultura(Portuguese).br(m3u4u)" tvg-name="Cultura | FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/800px-Cultura_logo_2013.svg.png" group-title="BRAZIL",Cultura | FHD
+http://supersonictv.live:8080/live/899559/316805/85363.m3u8
+#EXTINF:-1 tvg-id="Cultura(Portuguese).br(m3u4u)" tvg-name="Cultura | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/800px-Cultura_logo_2013.svg.png" group-title="BRAZIL",Cultura | HD
+http://supersonictv.live:8080/live/899559/316805/85334.m3u8
+#EXTINF:-1 tvg-id="Curta(Portuguese).br(m3u4u)" tvg-name="Curta! | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79639_dark_360w_270h.png" group-title="BRAZIL",Curta! | FHD
+http://supersonictv.live:8080/live/899559/316805/84963.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel(Portuguese).br(m3u4u)" tvg-name="Discovery Channel | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79018_dark_360w_270h.png" group-title="BRAZIL",Discovery Channel | FHD
+http://supersonictv.live:8080/live/899559/316805/84966.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealth(Portuguese).br(m3u4u)" tvg-name="Discovery Home & Health | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83208_dark_360w_270h.png" group-title="BRAZIL",Discovery Home & Health | FHD
+http://supersonictv.live:8080/live/899559/316805/84967.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Discovery ID | FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Investigation_Discovery_Logo_2018.svg" group-title="BRAZIL",Discovery ID | FHD
+http://supersonictv.live:8080/live/899559/316805/84968.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKids(Portuguese).br(m3u4u)" tvg-name="Discovery Kids | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83199_dark_360w_270h.png" group-title="BRAZIL",Discovery Kids | FHD
+http://supersonictv.live:8080/live/899559/316805/84969.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience(Portuguese).br(m3u4u)" tvg-name="Discovery Science | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56075_dark_360w_270h.png" group-title="BRAZIL",Discovery Science | FHD
+http://supersonictv.live:8080/live/899559/316805/84970.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTheater(Portuguese).br(m3u4u)" tvg-name="Discovery Theather | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75835_dark_360w_270h.png" group-title="BRAZIL",Discovery Theather | FHD
+http://supersonictv.live:8080/live/899559/316805/84971.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo(Portuguese).br(m3u4u)" tvg-name="Discovery Turbo | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90874_dark_360w_270h.png" group-title="BRAZIL",Discovery Turbo | FHD
+http://supersonictv.live:8080/live/899559/316805/84972.m3u8
+#EXTINF:-1 tvg-id="DiscoveryWorld(Portuguese).br(m3u4u)" tvg-name="Discovery World | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75605_dark_360w_270h.png" group-title="BRAZIL",Discovery World | FHD
+http://supersonictv.live:8080/live/899559/316805/84973.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel(Portuguese).br(m3u4u)" tvg-name="Disney Channel | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54592_dark_360w_270h.png" group-title="BRAZIL",Disney Channel | FHD
+http://supersonictv.live:8080/live/899559/316805/84974.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Disney JR | FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/2560px-Disney_Jr._2024.svg.png" group-title="BRAZIL",Disney JR | FHD
+http://supersonictv.live:8080/live/899559/316805/84975.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Disney XD | FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="BRAZIL",Disney XD | FHD
+http://supersonictv.live:8080/live/899559/316805/84976.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="DJTV | HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjCV9BTe2vrcVlSw9y9h0mHmX1JRt0yq6zSQ&s" group-title="BRAZIL",DJTV | HD
+http://supersonictv.live:8080/live/899559/316805/85362.m3u8
+#EXTINF:-1 tvg-id="DOGTV(Portuguese).br(m3u4u)" tvg-name="Dog TV | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105899_dark_360w_270h.png" group-title="BRAZIL",Dog TV | FHD
+http://supersonictv.live:8080/live/899559/316805/85171.m3u8
+#EXTINF:-1 tvg-id="E(Portuguese).br(m3u4u)" tvg-name="E! | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16238_dark_360w_270h.png" group-title="BRAZIL",E! | FHD
+http://supersonictv.live:8080/live/899559/316805/84977.m3u8
+#EXTINF:-1 tvg-id="ESPN(Portuguese).br(m3u4u)" tvg-name="ESPN | 4K" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77747_dark_360w_270h.png" group-title="BRAZIL",ESPN | 4K
+http://supersonictv.live:8080/live/899559/316805/85178.m3u8
+#EXTINF:-1 tvg-id="ESPN(Portuguese).br(m3u4u)" tvg-name="ESPN | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77747_dark_360w_270h.png" group-title="BRAZIL",ESPN | FHD
+http://supersonictv.live:8080/live/899559/316805/84979.m3u8
+#EXTINF:-1 tvg-id="ESPN(Portuguese).br(m3u4u)" tvg-name="ESPN 2 | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99096_dark_360w_270h.png" group-title="BRAZIL",ESPN 2 | FHD
+http://supersonictv.live:8080/live/899559/316805/84981.m3u8
+#EXTINF:-1 tvg-id="ESPN2(Portuguese).br(m3u4u)" tvg-name="ESPN 3 | FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="BRAZIL",ESPN 3 | FHD
+http://supersonictv.live:8080/live/899559/316805/84978.m3u8
+#EXTINF:-1 tvg-id="ESPN4(Portuguese).br(m3u4u)" tvg-name="ESPN 4 | 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="BRAZIL",ESPN 4 | 4K
+http://supersonictv.live:8080/live/899559/316805/85182.m3u8
+#EXTINF:-1 tvg-id="ESPN4(Portuguese).br(m3u4u)" tvg-name="ESPN 4 | FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="BRAZIL",ESPN 4 | FHD
+http://supersonictv.live:8080/live/899559/316805/84993.m3u8
+#EXTINF:-1 tvg-id="ESPN4(Portuguese).br(m3u4u)" tvg-name="ESPN 4 | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="BRAZIL",ESPN 4 | HD
+http://supersonictv.live:8080/live/899559/316805/84991.m3u8
+#EXTINF:-1 tvg-id="ESPN4(Portuguese).br(m3u4u)" tvg-name="ESPN 4 | SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="BRAZIL",ESPN 4 | SD
+http://supersonictv.live:8080/live/899559/316805/84994.m3u8
+#EXTINF:-1 tvg-id="ESPN5(Portuguese).br(m3u4u)" tvg-name="ESPN 5 | 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1024px-ESPN_5_logo.svg.png" group-title="BRAZIL",ESPN 5 | 4K
+http://supersonictv.live:8080/live/899559/316805/85181.m3u8
+#EXTINF:-1 tvg-id="ESPN5(Portuguese).br(m3u4u)" tvg-name="ESPN 5 | FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1024px-ESPN_5_logo.svg.png" group-title="BRAZIL",ESPN 5 | FHD
+http://supersonictv.live:8080/live/899559/316805/84992.m3u8
+#EXTINF:-1 tvg-id="ESPN6(Portuguese).br(m3u4u)" tvg-name="ESPN 6 | FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/2560px-ESPN_6_logo.svg.png" group-title="BRAZIL",ESPN 6 | FHD
+http://supersonictv.live:8080/live/899559/316805/84980.m3u8
+#EXTINF:-1 tvg-id="FishTV(Portuguese).br(m3u4u)" tvg-name="Fish TV | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79594_dark_360w_270h.png" group-title="BRAZIL",Fish TV | FHD
+http://supersonictv.live:8080/live/899559/316805/84983.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork(Portuguese).br(m3u4u)" tvg-name="Food Network | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104758_dark_360w_270h.png" group-title="BRAZIL",Food Network | FHD
+http://supersonictv.live:8080/live/899559/316805/84985.m3u8
+#EXTINF:-1 tvg-id="FX(Portuguese).br(m3u4u)" tvg-name="FX | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98922_dark_360w_270h.png" group-title="BRAZIL",FX | FHD
+http://supersonictv.live:8080/live/899559/316805/84995.m3u8
+#EXTINF:-1 tvg-id="Globo(Portuguese).br(m3u4u)" tvg-name="Globo | 4K" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76135_dark_360w_270h.png" group-title="BRAZIL",Globo | 4K
+http://supersonictv.live:8080/live/899559/316805/85183.m3u8
+#EXTINF:-1 tvg-id="Globo(Portuguese).br(m3u4u)" tvg-name="Globo Centro América | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76135_dark_360w_270h.png" group-title="BRAZIL",Globo Centro América | FHD
+http://supersonictv.live:8080/live/899559/316805/84997.m3u8
+#EXTINF:-1 tvg-id="GloboSaoPaulo(Portuguese).br(m3u4u)" tvg-name="Globo EPTV Campinas | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76135_dark_360w_270h.png" group-title="BRAZIL",Globo EPTV Campinas | FHD
+http://supersonictv.live:8080/live/899559/316805/84998.m3u8
+#EXTINF:-1 tvg-id="GloboSaoPaulo(Portuguese).br(m3u4u)" tvg-name="Globo EPTV Campinas | SD#" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76135_dark_360w_270h.png" group-title="BRAZIL",Globo EPTV Campinas | SD#
+http://supersonictv.live:8080/live/899559/316805/84999.m3u8
+#EXTINF:-1 tvg-id="GloboSaoPaulo(Portuguese).br(m3u4u)" tvg-name="Globo EPTV Ribeirão Preto" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76135_dark_360w_270h.png" group-title="BRAZIL",Globo EPTV Ribeirão Preto
+http://supersonictv.live:8080/live/899559/316805/85184.m3u8
+#EXTINF:-1 tvg-id="GloboSaoPaulo(Portuguese).br(m3u4u)" tvg-name="Globo EPTV Ribeirão Preto | SD#" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76135_dark_360w_270h.png" group-title="BRAZIL",Globo EPTV Ribeirão Preto | SD#
+http://supersonictv.live:8080/live/899559/316805/85000.m3u8
+#EXTINF:-1 tvg-id="GloboSaoPaulo(Portuguese).br(m3u4u)" tvg-name="Globo EPTV Sul de Minas | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76135_dark_360w_270h.png" group-title="BRAZIL",Globo EPTV Sul de Minas | FHD
+http://supersonictv.live:8080/live/899559/316805/85001.m3u8
+#EXTINF:-1 tvg-id="Globo(Portuguese).br(m3u4u)" tvg-name="Globo Inter Cabugi | HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76135_dark_360w_270h.png" group-title="BRAZIL",Globo Inter Cabugi | HD
+http://supersonictv.live:8080/live/899559/316805/85185.m3u8
+#EXTINF:-1 tvg-id="Globo(Portuguese).br(m3u4u)" tvg-name="Globo Inter PT | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76135_dark_360w_270h.png" group-title="BRAZIL",Globo Inter PT | FHD
+http://supersonictv.live:8080/live/899559/316805/85186.m3u8
+#EXTINF:-1 tvg-id="Globo(Portuguese).br(m3u4u)" tvg-name="Globo Inter PT | HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76135_dark_360w_270h.png" group-title="BRAZIL",Globo Inter PT | HD
+http://supersonictv.live:8080/live/899559/316805/85187.m3u8
+#EXTINF:-1 tvg-id="Globo(Portuguese).br(m3u4u)" tvg-name="Globo Inter TV Alto Litoral | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76135_dark_360w_270h.png" group-title="BRAZIL",Globo Inter TV Alto Litoral | FHD
+http://supersonictv.live:8080/live/899559/316805/85188.m3u8
+#EXTINF:-1 tvg-id="Globo(Portuguese).br(m3u4u)" tvg-name="Globo Inter TV Cabugi | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76135_dark_360w_270h.png" group-title="BRAZIL",Globo Inter TV Cabugi | FHD
+http://supersonictv.live:8080/live/899559/316805/85189.m3u8
+#EXTINF:-1 tvg-id="Globo(Portuguese).br(m3u4u)" tvg-name="Globo Inter TV Cabugi | SD#" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76135_dark_360w_270h.png" group-title="BRAZIL",Globo Inter TV Cabugi | SD#
+http://supersonictv.live:8080/live/899559/316805/85002.m3u8
+#EXTINF:-1 tvg-id="Globo(Portuguese).br(m3u4u)" tvg-name="Globo Inter TV dos Vales | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76135_dark_360w_270h.png" group-title="BRAZIL",Globo Inter TV dos Vales | FHD
+http://supersonictv.live:8080/live/899559/316805/85044.m3u8
+#EXTINF:-1 tvg-id="GloboBeloHorizonte(Portuguese).br(m3u4u)" tvg-name="Globo Inter TV Grande Minas | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76135_dark_360w_270h.png" group-title="BRAZIL",Globo Inter TV Grande Minas | FHD
+http://supersonictv.live:8080/live/899559/316805/85003.m3u8
+#EXTINF:-1 tvg-id="GloboBeloHorizonte(Portuguese).br(m3u4u)" tvg-name="Globo Minas | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76135_dark_360w_270h.png" group-title="BRAZIL",Globo Minas | FHD
+http://supersonictv.live:8080/live/899559/316805/85004.m3u8
+#EXTINF:-1 tvg-id="GloboNews(Portuguese).br(m3u4u)" tvg-name="Globo News | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s95744_dark_360w_270h.png" group-title="BRAZIL",Globo News | FHD
+http://supersonictv.live:8080/live/899559/316805/85005.m3u8
+#EXTINF:-1 tvg-id="GloboNordeste(Portuguese).br(m3u4u)" tvg-name="Globo Nordeste | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104176_dark_360w_270h.png" group-title="BRAZIL",Globo Nordeste | FHD
+http://supersonictv.live:8080/live/899559/316805/85006.m3u8
+#EXTINF:-1 tvg-id="Globo(Portuguese).br(m3u4u)" tvg-name="Globo NSC Centro Oeste | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105711_dark_360w_270h.png" group-title="BRAZIL",Globo NSC Centro Oeste | FHD
+http://supersonictv.live:8080/live/899559/316805/85190.m3u8
+#EXTINF:-1 tvg-id="NSCTVFlorianopolis(Portuguese).br(m3u4u)" tvg-name="Globo NSC Florianópolis | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105711_dark_360w_270h.png" group-title="BRAZIL",Globo NSC Florianópolis | FHD
+http://supersonictv.live:8080/live/899559/316805/85007.m3u8
+#EXTINF:-1 tvg-id="NSCTVBlumenau(Portuguese).br(m3u4u)" tvg-name="Globo NSC TV Blumenau | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105711_dark_360w_270h.png" group-title="BRAZIL",Globo NSC TV Blumenau | FHD
+http://supersonictv.live:8080/live/899559/316805/85057.m3u8
+#EXTINF:-1 tvg-id="NSCTVChapeco(Portuguese).br(m3u4u)" tvg-name="Globo NSC TV Chapecó | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105711_dark_360w_270h.png" group-title="BRAZIL",Globo NSC TV Chapecó | FHD
+http://supersonictv.live:8080/live/899559/316805/85191.m3u8
+#EXTINF:-1 tvg-id="NSCTVCriciuma(Portuguese).br(m3u4u)" tvg-name="Globo NSC TV Criciuma | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105711_dark_360w_270h.png" group-title="BRAZIL",Globo NSC TV Criciuma | FHD
+http://supersonictv.live:8080/live/899559/316805/85192.m3u8
+#EXTINF:-1 tvg-id="NSCTVJoinville(Portuguese).br(m3u4u)" tvg-name="Globo NSC TV Joinville | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105711_dark_360w_270h.png" group-title="BRAZIL",Globo NSC TV Joinville | FHD
+http://supersonictv.live:8080/live/899559/316805/85193.m3u8
+#EXTINF:-1 tvg-id="RBSTVPortoAlegre(Portuguese).br(m3u4u)" tvg-name="Globo RBS Porto Alegre | SD#" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="BRAZIL",Globo RBS Porto Alegre | SD#
+http://supersonictv.live:8080/live/899559/316805/85008.m3u8
+#EXTINF:-1 tvg-id="RBSTVPortoAlegre(Portuguese).br(m3u4u)" tvg-name="Globo RBS TV | 4K" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="BRAZIL",Globo RBS TV | 4K
+http://supersonictv.live:8080/live/899559/316805/85194.m3u8
+#EXTINF:-1 tvg-id="RBSTVPortoAlegre(Portuguese).br(m3u4u)" tvg-name="Globo RBS TV Caxias do Sul | FHD" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="BRAZIL",Globo RBS TV Caxias do Sul | FHD
+http://supersonictv.live:8080/live/899559/316805/85195.m3u8
+#EXTINF:-1 tvg-id="RBSTVPortoAlegre(Portuguese).br(m3u4u)" tvg-name="Globo RBS TV Pelotas | FHD" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="BRAZIL",Globo RBS TV Pelotas | FHD
+http://supersonictv.live:8080/live/899559/316805/85196.m3u8
+#EXTINF:-1 tvg-id="RBSTVPortoAlegre(Portuguese).br(m3u4u)" tvg-name="Globo RBS TV Poa | FHD" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="BRAZIL",Globo RBS TV Poa | FHD
+http://supersonictv.live:8080/live/899559/316805/85009.m3u8
+#EXTINF:-1 tvg-id="RBSTVPortoAlegre(Portuguese).br(m3u4u)" tvg-name="Globo RBS TV Santa Maria | FHD" tvg-logo="http://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="BRAZIL",Globo RBS TV Santa Maria | FHD
+http://supersonictv.live:8080/live/899559/316805/85197.m3u8
+#EXTINF:-1 tvg-id="RedeAmazonicaRioBranco(Portuguese).br(m3u4u)" tvg-name="Globo Rede Amazônica | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76937_dark_360w_270h.png" group-title="BRAZIL",Globo Rede Amazônica | FHD
+http://supersonictv.live:8080/live/899559/316805/85198.m3u8
+#EXTINF:-1 tvg-id="RedeAmazonicaManaus(Portuguese).br(m3u4u)" tvg-name="Globo Rede Amazônica Manaus | SD#" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76937_dark_360w_270h.png" group-title="BRAZIL",Globo Rede Amazônica Manaus | SD#
+http://supersonictv.live:8080/live/899559/316805/85010.m3u8
+#EXTINF:-1 tvg-id="GloboRio(Portuguese).br(m3u4u)" tvg-name="Globo Rio | HD#" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76937_dark_360w_270h.png" group-title="BRAZIL",Globo Rio | HD#
+http://supersonictv.live:8080/live/899559/316805/85011.m3u8
+#EXTINF:-1 tvg-id="GloboRio(Portuguese).br(m3u4u)" tvg-name="Globo RJ | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76937_dark_360w_270h.png" group-title="BRAZIL",Globo RJ | FHD
+http://supersonictv.live:8080/live/899559/316805/85012.m3u8
+#EXTINF:-1 tvg-id="RPCCuritiba(Portuguese).br(m3u4u)" tvg-name="Globo RPC Curitiba | FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/RPC_TV.svg/revision/latest?cb=20170519063328" group-title="BRAZIL",Globo RPC Curitiba | FHD
+http://supersonictv.live:8080/live/899559/316805/85013.m3u8
+#EXTINF:-1 tvg-id="RPCFozdoIguacu(Portuguese).br(m3u4u)" tvg-name="Globo RPC Foz do Iguaçu | FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/RPC_TV.svg/revision/latest?cb=20170519063328" group-title="BRAZIL",Globo RPC Foz do Iguaçu | FHD
+http://supersonictv.live:8080/live/899559/316805/85014.m3u8
+#EXTINF:-1 tvg-id="RPCMaringa(Portuguese).br(m3u4u)" tvg-name="Globo RPC Maringá | FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/RPC_TV.svg/revision/latest?cb=20170519063328" group-title="BRAZIL",Globo RPC Maringá | FHD
+http://supersonictv.live:8080/live/899559/316805/85199.m3u8
+#EXTINF:-1 tvg-id="RPCPontaGrossa(Portuguese).br(m3u4u)" tvg-name="Globo RPC Ponta Grossa | FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/RPC_TV.svg/revision/latest?cb=20170519063328" group-title="BRAZIL",Globo RPC Ponta Grossa | FHD
+http://supersonictv.live:8080/live/899559/316805/85200.m3u8
+#EXTINF:-1 tvg-id="GloboSaoPaulo(Portuguese).br(m3u4u)" tvg-name="Globo SP | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76937_dark_360w_270h.png" group-title="BRAZIL",Globo SP | FHD
+http://supersonictv.live:8080/live/899559/316805/85015.m3u8
+#EXTINF:-1 tvg-id="TVAnhanguera(Portuguese).br(m3u4u)" tvg-name="Globo TV Anhanguera  | SD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76937_dark_360w_270h.png" group-title="BRAZIL",Globo TV Anhanguera  | SD
+http://supersonictv.live:8080/live/899559/316805/85016.m3u8
+#EXTINF:-1 tvg-id="TVAnhangueraPalmas(Portuguese).br(m3u4u)" tvg-name="Globo TV Anhanguera Goiânia | SD#" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76937_dark_360w_270h.png" group-title="BRAZIL",Globo TV Anhanguera Goiânia | SD#
+http://supersonictv.live:8080/live/899559/316805/85017.m3u8
+#EXTINF:-1 tvg-id="Globo(Portuguese).br(m3u4u)" tvg-name="Globo TV Asa Branca | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76937_dark_360w_270h.png" group-title="BRAZIL",Globo TV Asa Branca | FHD
+http://supersonictv.live:8080/live/899559/316805/85201.m3u8
+#EXTINF:-1 tvg-id="TVEBahia(Portuguese).br(m3u4u)" tvg-name="Globo TV Bahia | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76937_dark_360w_270h.png" group-title="BRAZIL",Globo TV Bahia | FHD
+http://supersonictv.live:8080/live/899559/316805/85018.m3u8
+#EXTINF:-1 tvg-id="Globo(Portuguese).br(m3u4u)" tvg-name="Globo TV Belem | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76937_dark_360w_270h.png" group-title="BRAZIL",Globo TV Belem | FHD
+http://supersonictv.live:8080/live/899559/316805/85019.m3u8
+#EXTINF:-1 tvg-id="GloboBrasilia(Portuguese).br(m3u4u)" tvg-name="Globo TV Brasilia | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75844_dark_360w_270h.png" group-title="BRAZIL",Globo TV Brasilia | FHD
+http://supersonictv.live:8080/live/899559/316805/85020.m3u8
+#EXTINF:-1 tvg-id="GloboBrasilia(Portuguese).br(m3u4u)" tvg-name="Globo TV Brasilia | HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75844_dark_360w_270h.png" group-title="BRAZIL",Globo TV Brasilia | HD
+http://supersonictv.live:8080/live/899559/316805/84996.m3u8
+#EXTINF:-1 tvg-id="TVCaboBranco(Portuguese).br(m3u4u)" tvg-name="Globo TV Cabo Branco | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76937_dark_360w_270h.png" group-title="BRAZIL",Globo TV Cabo Branco | FHD
+http://supersonictv.live:8080/live/899559/316805/85202.m3u8
+#EXTINF:-1 tvg-id="TVClube(Portuguese).br(m3u4u)" tvg-name="Globo TV Clube | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76937_dark_360w_270h.png" group-title="BRAZIL",Globo TV Clube | FHD
+http://supersonictv.live:8080/live/899559/316805/85203.m3u8
+#EXTINF:-1 tvg-id="TVGazeta(Portuguese).br(m3u4u)" tvg-name="Globo TV Gazeta | 4K" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104470_dark_360w_270h.png" group-title="BRAZIL",Globo TV Gazeta | 4K
+http://supersonictv.live:8080/live/899559/316805/85339.m3u8
+#EXTINF:-1 tvg-id="TVGazeta(Portuguese).br(m3u4u)" tvg-name="Globo TV Gazeta | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104470_dark_360w_270h.png" group-title="BRAZIL",Globo TV Gazeta | FHD
+http://supersonictv.live:8080/live/899559/316805/85114.m3u8
+#EXTINF:-1 tvg-id="TVGazetadeAlagoas(Portuguese).br(m3u4u)" tvg-name="Globo TV Gazeta Alagoas | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104780_dark_360w_270h.png" group-title="BRAZIL",Globo TV Gazeta Alagoas | FHD
+http://supersonictv.live:8080/live/899559/316805/85113.m3u8
+#EXTINF:-1 tvg-id="Globo(Portuguese).br(m3u4u)" tvg-name="Globo TV Integração JF | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76937_dark_360w_270h.png" group-title="BRAZIL",Globo TV Integração JF | FHD
+http://supersonictv.live:8080/live/899559/316805/85204.m3u8
+#EXTINF:-1 tvg-id="TVLiberal(Portuguese).br(m3u4u)" tvg-name="Globo TV Liberal Belém | SD#" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76937_dark_360w_270h.png" group-title="BRAZIL",Globo TV Liberal Belém | SD#
+http://supersonictv.live:8080/live/899559/316805/85021.m3u8
+#EXTINF:-1 tvg-id="TVMiranteSaoLuis(Portuguese).br(m3u4u)" tvg-name="Globo TV Mirante | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76937_dark_360w_270h.png" group-title="BRAZIL",Globo TV Mirante | FHD
+http://supersonictv.live:8080/live/899559/316805/85022.m3u8
+#EXTINF:-1 tvg-id="TVMorena(Portuguese).br(m3u4u)" tvg-name="Globo TV Morena | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76937_dark_360w_270h.png" group-title="BRAZIL",Globo TV Morena | FHD
+http://supersonictv.live:8080/live/899559/316805/85023.m3u8
+#EXTINF:-1 tvg-id="GloboNordeste(Portuguese).br(m3u4u)" tvg-name="Globo TV Recife | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76937_dark_360w_270h.png" group-title="BRAZIL",Globo TV Recife | FHD
+http://supersonictv.live:8080/live/899559/316805/85205.m3u8
+#EXTINF:-1 tvg-id="TVRioSul(Portuguese).br(m3u4u)" tvg-name="Globo TV Rio Sul | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76937_dark_360w_270h.png" group-title="BRAZIL",Globo TV Rio Sul | FHD
+http://supersonictv.live:8080/live/899559/316805/85206.m3u8
+#EXTINF:-1 tvg-id="TVSantaCruz(Portuguese).br(m3u4u)" tvg-name="Globo TV Santa Cruz | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105198_dark_360w_270h.png" group-title="BRAZIL",Globo TV Santa Cruz | FHD
+http://supersonictv.live:8080/live/899559/316805/85116.m3u8
+#EXTINF:-1 tvg-id="TVSergipe(Portuguese).br(m3u4u)" tvg-name="Globo TV Sergipe | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78438_dark_360w_270h.png" group-title="BRAZIL",Globo TV Sergipe | FHD
+http://supersonictv.live:8080/live/899559/316805/85117.m3u8
+#EXTINF:-1 tvg-id="GloboSaoPaulo(Portuguese).br(m3u4u)" tvg-name="Globo TV Tem Bauru | FHD" tvg-logo="" group-title="BRAZIL",Globo TV Tem Bauru | FHD
+http://supersonictv.live:8080/live/899559/316805/85124.m3u8
+#EXTINF:-1 tvg-id="GloboSaoPaulo(Portuguese).br(m3u4u)" tvg-name="Globo TV TEM Bauru | SD#" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76937_dark_360w_270h.png" group-title="BRAZIL",Globo TV TEM Bauru | SD#
+http://supersonictv.live:8080/live/899559/316805/85024.m3u8
+#EXTINF:-1 tvg-id="GloboSaoPaulo(Portuguese).br(m3u4u)" tvg-name="Globo TV TEM SJRP" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76937_dark_360w_270h.png" group-title="BRAZIL",Globo TV TEM SJRP
+http://supersonictv.live:8080/live/899559/316805/85207.m3u8
+#EXTINF:-1 tvg-id="GloboSaoPaulo(Portuguese).br(m3u4u)" tvg-name="Globo TV TEM Sorocaba | HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76937_dark_360w_270h.png" group-title="BRAZIL",Globo TV TEM Sorocaba | HD
+http://supersonictv.live:8080/live/899559/316805/85208.m3u8
+#EXTINF:-1 tvg-id="GloboSaoPaulo(Portuguese).br(m3u4u)" tvg-name="GLOBO TV TEM Sorocaba | SD#" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76937_dark_360w_270h.png" group-title="BRAZIL",GLOBO TV TEM Sorocaba | SD#
+http://supersonictv.live:8080/live/899559/316805/85025.m3u8
+#EXTINF:-1 tvg-id="TVTribuna(Portuguese).br(m3u4u)" tvg-name="Globo TV Tribuna | HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76937_dark_360w_270h.png" group-title="BRAZIL",Globo TV Tribuna | HD
+http://supersonictv.live:8080/live/899559/316805/85209.m3u8
+#EXTINF:-1 tvg-id="TVTribuna(Portuguese).br(m3u4u)" tvg-name="Globo TV Tribuna Santos | SD#" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76937_dark_360w_270h.png" group-title="BRAZIL",Globo TV Tribuna Santos | SD#
+http://supersonictv.live:8080/live/899559/316805/85026.m3u8
+#EXTINF:-1 tvg-id="GloboSaoPaulo(Portuguese).br(m3u4u)" tvg-name="Globo TV Vanguarda São José dos Campos | SD#" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76937_dark_360w_270h.png" group-title="BRAZIL",Globo TV Vanguarda São José dos Campos | SD#
+http://supersonictv.live:8080/live/899559/316805/85027.m3u8
+#EXTINF:-1 tvg-id="GloboSaoPaulo(Portuguese).br(m3u4u)" tvg-name="Globo TV Vanguarda SJC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76937_dark_360w_270h.png" group-title="BRAZIL",Globo TV Vanguarda SJC
+http://supersonictv.live:8080/live/899559/316805/85210.m3u8
+#EXTINF:-1 tvg-id="TVVerdesMares(Portuguese).br(m3u4u)" tvg-name="Globo TV Verdes Mares | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76937_dark_360w_270h.png" group-title="BRAZIL",Globo TV Verdes Mares | FHD
+http://supersonictv.live:8080/live/899559/316805/85028.m3u8
+#EXTINF:-1 tvg-id="TVAnhanguera(Portuguese).br(m3u4u)" tvg-name="GloboTV Anhanguera | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76937_dark_360w_270h.png" group-title="BRAZIL",GloboTV Anhanguera | FHD
+http://supersonictv.live:8080/live/899559/316805/85029.m3u8
+#EXTINF:-1 tvg-id="Gloob(Portuguese).br(m3u4u)" tvg-name="Gloob | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78083_dark_360w_270h.png" group-title="BRAZIL",Gloob | FHD
+http://supersonictv.live:8080/live/899559/316805/85030.m3u8
+#EXTINF:-1 tvg-id="GLOOBINHO(Portuguese).br(m3u4u)" tvg-name="Gloobinho | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s107894_dark_360w_270h.png" group-title="BRAZIL",Gloobinho | FHD
+http://supersonictv.live:8080/live/899559/316805/85031.m3u8
+#EXTINF:-1 tvg-id="GNT(Portuguese).br(m3u4u)" tvg-name="GNT | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79019_dark_360w_270h.png" group-title="BRAZIL",GNT | FHD
+http://supersonictv.live:8080/live/899559/316805/85032.m3u8
+#EXTINF:-1 tvg-id="HBO(Portuguese).br(m3u4u)" tvg-name="HBO | 4K" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76101_dark_360w_270h.png" group-title="BRAZIL",HBO | 4K
+http://supersonictv.live:8080/live/899559/316805/85213.m3u8
+#EXTINF:-1 tvg-id="HBO(Portuguese).br(m3u4u)" tvg-name="HBO | dual FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76101_dark_360w_270h.png" group-title="BRAZIL",HBO | dual FHD
+http://supersonictv.live:8080/live/899559/316805/85214.m3u8
+#EXTINF:-1 tvg-id="HBO(Portuguese).br(m3u4u)" tvg-name="HBO | dual HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76101_dark_360w_270h.png" group-title="BRAZIL",HBO | dual HD
+http://supersonictv.live:8080/live/899559/316805/85215.m3u8
+#EXTINF:-1 tvg-id="HBO(Portuguese).br(m3u4u)" tvg-name="HBO | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76101_dark_360w_270h.png" group-title="BRAZIL",HBO | FHD
+http://supersonictv.live:8080/live/899559/316805/85036.m3u8
+#EXTINF:-1 tvg-id="HBO2(Portuguese).br(m3u4u)" tvg-name="HBO 2 | dual FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98075_dark_360w_270h.png" group-title="BRAZIL",HBO 2 | dual FHD
+http://supersonictv.live:8080/live/899559/316805/85211.m3u8
+#EXTINF:-1 tvg-id="HBO2(Portuguese).br(m3u4u)" tvg-name="HBO 2 | dual HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98075_dark_360w_270h.png" group-title="BRAZIL",HBO 2 | dual HD
+http://supersonictv.live:8080/live/899559/316805/85212.m3u8
+#EXTINF:-1 tvg-id="HBO2(Portuguese).br(m3u4u)" tvg-name="HBO 2 | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98075_dark_360w_270h.png" group-title="BRAZIL",HBO 2 | FHD
+http://supersonictv.live:8080/live/899559/316805/85034.m3u8
+#EXTINF:-1 tvg-id="HBOFamily(Portuguese).br(m3u4u)" tvg-name="HBO Family | dual FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56092_dark_360w_270h.png" group-title="BRAZIL",HBO Family | dual FHD
+http://supersonictv.live:8080/live/899559/316805/85216.m3u8
+#EXTINF:-1 tvg-id="HBOFamily(Portuguese).br(m3u4u)" tvg-name="HBO Family | dual HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56092_dark_360w_270h.png" group-title="BRAZIL",HBO Family | dual HD
+http://supersonictv.live:8080/live/899559/316805/85217.m3u8
+#EXTINF:-1 tvg-id="HBOFamily(Portuguese).br(m3u4u)" tvg-name="HBO Family | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56092_dark_360w_270h.png" group-title="BRAZIL",HBO Family | FHD
+http://supersonictv.live:8080/live/899559/316805/85035.m3u8
+#EXTINF:-1 tvg-id="HBOMundi(Portuguese).br(m3u4u)" tvg-name="HBO Mundi | dual FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103778_dark_360w_270h.png" group-title="BRAZIL",HBO Mundi | dual FHD
+http://supersonictv.live:8080/live/899559/316805/85218.m3u8
+#EXTINF:-1 tvg-id="HBOMundi(Portuguese).br(m3u4u)" tvg-name="HBO Mundi | dual HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103778_dark_360w_270h.png" group-title="BRAZIL",HBO Mundi | dual HD
+http://supersonictv.live:8080/live/899559/316805/85219.m3u8
+#EXTINF:-1 tvg-id="HBOMundi(Portuguese).br(m3u4u)" tvg-name="HBO Mundi | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103778_dark_360w_270h.png" group-title="BRAZIL",HBO Mundi | FHD
+http://supersonictv.live:8080/live/899559/316805/85037.m3u8
+#EXTINF:-1 tvg-id="HBOPlus(Portuguese).br(m3u4u)" tvg-name="HBO Plus | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98076_dark_360w_270h.png" group-title="BRAZIL",HBO Plus | FHD
+http://supersonictv.live:8080/live/899559/316805/85038.m3u8
+#EXTINF:-1 tvg-id="HBOPop(Portuguese).br(m3u4u)" tvg-name="HBO Pop | dual HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75590_dark_360w_270h.png" group-title="BRAZIL",HBO Pop | dual HD
+http://supersonictv.live:8080/live/899559/316805/85220.m3u8
+#EXTINF:-1 tvg-id="HBOPop(Portuguese).br(m3u4u)" tvg-name="HBO Pop | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75590_dark_360w_270h.png" group-title="BRAZIL",HBO Pop | FHD
+http://supersonictv.live:8080/live/899559/316805/85039.m3u8
+#EXTINF:-1 tvg-id="HBOSignature(Portuguese).br(m3u4u)" tvg-name="HBO Signature | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s98088_dark_360w_270h.png" group-title="BRAZIL",HBO Signature | FHD
+http://supersonictv.live:8080/live/899559/316805/85040.m3u8
+#EXTINF:-1 tvg-id="HBOXtreme(Portuguese).br(m3u4u)" tvg-name="Hbo Xtreme | 4K" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104742_dark_360w_270h.png" group-title="BRAZIL",Hbo Xtreme | 4K
+http://supersonictv.live:8080/live/899559/316805/85221.m3u8
+#EXTINF:-1 tvg-id="HBOXtreme(Portuguese).br(m3u4u)" tvg-name="HBO Xtreme | dual FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104742_dark_360w_270h.png" group-title="BRAZIL",HBO Xtreme | dual FHD
+http://supersonictv.live:8080/live/899559/316805/85222.m3u8
+#EXTINF:-1 tvg-id="HBOXtreme(Portuguese).br(m3u4u)" tvg-name="HBO Xtreme | dual HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104742_dark_360w_270h.png" group-title="BRAZIL",HBO Xtreme | dual HD
+http://supersonictv.live:8080/live/899559/316805/85223.m3u8
+#EXTINF:-1 tvg-id="HBOXtreme(Portuguese).br(m3u4u)" tvg-name="HBO Xtreme | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104742_dark_360w_270h.png" group-title="BRAZIL",HBO Xtreme | FHD
+http://supersonictv.live:8080/live/899559/316805/85041.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Heavy Metal TV" tvg-logo="https://cascade.madmimi.com/promotion_images/2890/2343/original/hmtv-logo.png?1639696223" group-title="BRAZIL",Heavy Metal TV
+http://supersonictv.live:8080/live/899559/316805/85224.m3u8
+#EXTINF:-1 tvg-id="HGTV(Portuguese).br(m3u4u)" tvg-name="HGTV | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111476_dark_360w_270h.png" group-title="BRAZIL",HGTV | FHD
+http://supersonictv.live:8080/live/899559/316805/85042.m3u8
+#EXTINF:-1 tvg-id="History(Portuguese).br(m3u4u)" tvg-name="History | FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="BRAZIL",History | FHD
+http://supersonictv.live:8080/live/899559/316805/85106.m3u8
+#EXTINF:-1 tvg-id="History2(Portuguese).br(m3u4u)" tvg-name="History H2 | FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/History2_logo_%282022%29.svg" group-title="BRAZIL",History H2 | FHD
+http://supersonictv.live:8080/live/899559/316805/85033.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="i SAT | FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/800px-I.Sat_logo.svg.png" group-title="BRAZIL",i SAT | FHD
+http://supersonictv.live:8080/live/899559/316805/85043.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ITV | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Itv2024.svg/1200px-Itv2024.svg.png" group-title="BRAZIL",ITV | HD
+http://supersonictv.live:8080/live/899559/316805/85227.m3u8
+#EXTINF:-1 tvg-id="JovemPanNews(Portuguese).br(m3u4u)" tvg-name="Jovem Pan News | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121547_dark_360w_270h.png" group-title="BRAZIL",Jovem Pan News | FHD
+http://supersonictv.live:8080/live/899559/316805/85228.m3u8
+#EXTINF:-1 tvg-id="Megapix(Portuguese).br(m3u4u)" tvg-name="Megapix | 4K" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78130_dark_360w_270h.png" group-title="BRAZIL",Megapix | 4K
+http://supersonictv.live:8080/live/899559/316805/85232.m3u8
+#EXTINF:-1 tvg-id="Megapix(Portuguese).br(m3u4u)" tvg-name="Megapix | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78130_dark_360w_270h.png" group-title="BRAZIL",Megapix | FHD
+http://supersonictv.live:8080/live/899559/316805/85047.m3u8
+#EXTINF:-1 tvg-id="ModoViagem(Portuguese).br(m3u4u)" tvg-name="Modo Viagem | FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logotipo_do_Modo_Viagem.svg" group-title="BRAZIL",Modo Viagem | FHD
+http://supersonictv.live:8080/live/899559/316805/85046.m3u8
+#EXTINF:-1 tvg-id="MTV(Portuguese).br(m3u4u)" tvg-name="MTV | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78154_dark_360w_270h.png" group-title="BRAZIL",MTV | FHD
+http://supersonictv.live:8080/live/899559/316805/85048.m3u8
+#EXTINF:-1 tvg-id="MTV(Portuguese).br(m3u4u)" tvg-name="MTV | HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78154_dark_360w_270h.png" group-title="BRAZIL",MTV | HD
+http://supersonictv.live:8080/live/899559/316805/85049.m3u8
+#EXTINF:-1 tvg-id="Multishow(Portuguese).br(m3u4u)" tvg-name="Multishow | 4K" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78181_dark_360w_270h.png" group-title="BRAZIL",Multishow | 4K
+http://supersonictv.live:8080/live/899559/316805/85233.m3u8
+#EXTINF:-1 tvg-id="Multishow(Portuguese).br(m3u4u)" tvg-name="Multishow | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78181_dark_360w_270h.png" group-title="BRAZIL",Multishow | FHD
+http://supersonictv.live:8080/live/899559/316805/85050.m3u8
+#EXTINF:-1 tvg-id="MusicBoxBrasil(Portuguese).br(m3u4u)" tvg-name="Music Box Brasil | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s94895_dark_360w_270h.png" group-title="BRAZIL",Music Box Brasil | FHD
+http://supersonictv.live:8080/live/899559/316805/85051.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic(Portuguese).br(m3u4u)" tvg-name="Natgeo | 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Natgeologo.svg" group-title="BRAZIL",Natgeo | 4K
+http://supersonictv.live:8080/live/899559/316805/85235.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic(Portuguese).br(m3u4u)" tvg-name="Natgeo | FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Natgeologo.svg" group-title="BRAZIL",Natgeo | FHD
+http://supersonictv.live:8080/live/899559/316805/85052.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Natgeo Kids | FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="BRAZIL",Natgeo Kids | FHD
+http://supersonictv.live:8080/live/899559/316805/85053.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Natgeo Wild | FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png" group-title="BRAZIL",Natgeo Wild | FHD
+http://supersonictv.live:8080/live/899559/316805/85054.m3u8
+#EXTINF:-1 tvg-id="NHK(English).br(m3u4u)" tvg-name="NHK Japan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdCw_1S9oB7Ydf5i4wtirdHXKsR6Ws8SEL0w&s" group-title="BRAZIL",NHK Japan
+http://supersonictv.live:8080/live/899559/316805/85236.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon(Portuguese).br(m3u4u)" tvg-name="Nick | FHD" tvg-logo="https://static.wikia.nocookie.net/canais-infantis/images/f/ff/Nickelodeon_2023.png/revision/latest?cb=20240122161035&path-prefix=pt-br" group-title="BRAZIL",Nick | FHD
+http://supersonictv.live:8080/live/899559/316805/85055.m3u8
+#EXTINF:-1 tvg-id="NickJr(Portuguese).br(m3u4u)" tvg-name="Nick JR | FHD" tvg-logo="https://static.wikia.nocookie.net/canais-infantis/images/5/53/Nick_Jr_2024.png/revision/latest?cb=20240207110829&path-prefix=pt-br" group-title="BRAZIL",Nick JR | FHD
+http://supersonictv.live:8080/live/899559/316805/85056.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NSports | HD" tvg-logo="https://yt3.googleusercontent.com/l8tT-dpxOFXHhElrkGhzHVIvR_7tfvvftINGbkjjuS9JNGQL03x4AuP9DqpYdGQ2dG4j3hdy2g=s900-c-k-c0x00ffffff-no-rj" group-title="BRAZIL",NSports | HD
+http://supersonictv.live:8080/live/899559/316805/85149.m3u8
+#EXTINF:-1 tvg-id="Off(Portuguese).br(m3u4u)" tvg-name="OFF | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s94119_dark_360w_270h.png" group-title="BRAZIL",OFF | FHD
+http://supersonictv.live:8080/live/899559/316805/85058.m3u8
+#EXTINF:-1 tvg-id="ParamountChannel(Portuguese).br(m3u4u)" tvg-name="Paramount Channel | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s94356_dark_360w_270h.png" group-title="BRAZIL",Paramount Channel | FHD
+http://supersonictv.live:8080/live/899559/316805/85059.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Play Kids | HD" tvg-logo="https://s3.amazonaws.com/assets-playkids-blog/wp-content/uploads/2020/07/10132345/logo-playkids.png" group-title="BRAZIL",Play Kids | HD
+http://supersonictv.live:8080/live/899559/316805/85060.m3u8
+#EXTINF:-1 tvg-id="PLAYTV(Portuguese).br(m3u4u)" tvg-name="Play TV | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75916_dark_360w_270h.png" group-title="BRAZIL",Play TV | FHD
+http://supersonictv.live:8080/live/899559/316805/85061.m3u8
+#EXTINF:-1 tvg-id="Premiere2(Portuguese).br(m3u4u)" tvg-name="Premiere 2 | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s95288_dark_360w_270h.png" group-title="BRAZIL",Premiere 2 | FHD
+http://supersonictv.live:8080/live/899559/316805/85062.m3u8
+#EXTINF:-1 tvg-id="Premiere3(Portuguese).br(m3u4u)" tvg-name="Premiere 3 | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s95290_dark_360w_270h.png" group-title="BRAZIL",Premiere 3 | FHD
+http://supersonictv.live:8080/live/899559/316805/85063.m3u8
+#EXTINF:-1 tvg-id="Premiere4(Portuguese).br(m3u4u)" tvg-name="Premiere 4 | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56087_dark_360w_270h.png" group-title="BRAZIL",Premiere 4 | FHD
+http://supersonictv.live:8080/live/899559/316805/85064.m3u8
+#EXTINF:-1 tvg-id="Premiere5(Portuguese).br(m3u4u)" tvg-name="Premiere 5 | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102434_dark_360w_270h.png" group-title="BRAZIL",Premiere 5 | FHD
+http://supersonictv.live:8080/live/899559/316805/85065.m3u8
+#EXTINF:-1 tvg-id="Premiere6(Portuguese).br(m3u4u)" tvg-name="Premiere 6 | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103729_dark_360w_270h.png" group-title="BRAZIL",Premiere 6 | FHD
+http://supersonictv.live:8080/live/899559/316805/85066.m3u8
+#EXTINF:-1 tvg-id="Premiere7(Portuguese).br(m3u4u)" tvg-name="Premiere 7 | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103733_dark_360w_270h.png" group-title="BRAZIL",Premiere 7 | FHD
+http://supersonictv.live:8080/live/899559/316805/85067.m3u8
+#EXTINF:-1 tvg-id="PremiereClubes(Portuguese).br(m3u4u)" tvg-name="Premiere Clubes | 4K" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99021_dark_360w_270h.png" group-title="BRAZIL",Premiere Clubes | 4K
+http://supersonictv.live:8080/live/899559/316805/85240.m3u8
+#EXTINF:-1 tvg-id="PremiereClubes(Portuguese).br(m3u4u)" tvg-name="Premiere Clubes | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99021_dark_360w_270h.png" group-title="BRAZIL",Premiere Clubes | FHD
+http://supersonictv.live:8080/live/899559/316805/85068.m3u8
+#EXTINF:-1 tvg-id="RECORD(Portuguese).br(m3u4u)" tvg-name="Record | 4K" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41479_dark_360w_270h.png" group-title="BRAZIL",Record | 4K
+http://supersonictv.live:8080/live/899559/316805/85245.m3u8
+#EXTINF:-1 tvg-id="RECORD(Portuguese).br(m3u4u)" tvg-name="Record | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41479_dark_360w_270h.png" group-title="BRAZIL",Record | FHD
+http://supersonictv.live:8080/live/899559/316805/85075.m3u8
+#EXTINF:-1 tvg-id="RECORD(Portuguese).br(m3u4u)" tvg-name="Record | HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41479_dark_360w_270h.png" group-title="BRAZIL",Record | HD
+http://supersonictv.live:8080/live/899559/316805/85077.m3u8
+#EXTINF:-1 tvg-id="RECORD(Portuguese).br(m3u4u)" tvg-name="Record | SD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41479_dark_360w_270h.png" group-title="BRAZIL",Record | SD
+http://supersonictv.live:8080/live/899559/316805/85255.m3u8
+#EXTINF:-1 tvg-id="RECORDBahia(Portuguese).br(m3u4u)" tvg-name="Record BA | HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104203_dark_360w_270h.png" group-title="BRAZIL",Record BA | HD
+http://supersonictv.live:8080/live/899559/316805/85070.m3u8
+#EXTINF:-1 tvg-id="RECORDBelem(Portuguese).br(m3u4u)" tvg-name="Record Belém | HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76553_dark_360w_270h.png" group-title="BRAZIL",Record Belém | HD
+http://supersonictv.live:8080/live/899559/316805/85246.m3u8
+#EXTINF:-1 tvg-id="RECORDBelem(Portuguese).br(m3u4u)" tvg-name="Record Belém*" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76553_dark_360w_270h.png" group-title="BRAZIL",Record Belém*
+http://supersonictv.live:8080/live/899559/316805/85071.m3u8
+#EXTINF:-1 tvg-id="RECORDMinas(Portuguese).br(m3u4u)" tvg-name="Record BH | HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41479_dark_360w_270h.png" group-title="BRAZIL",Record BH | HD
+http://supersonictv.live:8080/live/899559/316805/85072.m3u8
+#EXTINF:-1 tvg-id="RECORDBrasilia(Portuguese).br(m3u4u)" tvg-name="Record Brasília | HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78319_dark_360w_270h.png" group-title="BRAZIL",Record Brasília | HD
+http://supersonictv.live:8080/live/899559/316805/85247.m3u8
+#EXTINF:-1 tvg-id="RECORD(Portuguese).br(m3u4u)" tvg-name="Record DF | HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41479_dark_360w_270h.png" group-title="BRAZIL",Record DF | HD
+http://supersonictv.live:8080/live/899559/316805/85073.m3u8
+#EXTINF:-1 tvg-id="RECORD(Portuguese).br(m3u4u)" tvg-name="Record ES | HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76674_dark_360w_270h.png" group-title="BRAZIL",Record ES | HD
+http://supersonictv.live:8080/live/899559/316805/85074.m3u8
+#EXTINF:-1 tvg-id="RECORDGoias(Portuguese).br(m3u4u)" tvg-name="Record GO | HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76674_dark_360w_270h.png" group-title="BRAZIL",Record GO | HD
+http://supersonictv.live:8080/live/899559/316805/85076.m3u8
+#EXTINF:-1 tvg-id="RecordTVGoias(Portuguese).br(m3u4u)" tvg-name="Record Goiás | HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76674_dark_360w_270h.png" group-title="BRAZIL",Record Goiás | HD
+http://supersonictv.live:8080/live/899559/316805/85248.m3u8
+#EXTINF:-1 tvg-id="RECORD(Portuguese).br(m3u4u)" tvg-name="Record Itapoan | HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76674_dark_360w_270h.png" group-title="BRAZIL",Record Itapoan | HD
+http://supersonictv.live:8080/live/899559/316805/85249.m3u8
+#EXTINF:-1 tvg-id="RECORD(Portuguese).br(m3u4u)" tvg-name="Record Manaus | HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76674_dark_360w_270h.png" group-title="BRAZIL",Record Manaus | HD
+http://supersonictv.live:8080/live/899559/316805/85250.m3u8
+#EXTINF:-1 tvg-id="RECORDMinas(Portuguese).br(m3u4u)" tvg-name="Record Minas | HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76201_dark_360w_270h.png" group-title="BRAZIL",Record Minas | HD
+http://supersonictv.live:8080/live/899559/316805/85251.m3u8
+#EXTINF:-1 tvg-id="RECORDMinas(Portuguese).br(m3u4u)" tvg-name="Record Minas | HD*" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76201_dark_360w_270h.png" group-title="BRAZIL",Record Minas | HD*
+http://supersonictv.live:8080/live/899559/316805/85078.m3u8
+#EXTINF:-1 tvg-id="RecordNews(Portuguese).br(m3u4u)" tvg-name="Record News | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s127718_dark_360w_270h.png" group-title="BRAZIL",Record News | FHD
+http://supersonictv.live:8080/live/899559/316805/85079.m3u8
+#EXTINF:-1 tvg-id="RECORDBelem(Portuguese).br(m3u4u)" tvg-name="Record PA | HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76674_dark_360w_270h.png" group-title="BRAZIL",Record PA | HD
+http://supersonictv.live:8080/live/899559/316805/85080.m3u8
+#EXTINF:-1 tvg-id="RECORDRio(Portuguese).br(m3u4u)" tvg-name="Record Rio RJ | HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76674_dark_360w_270h.png" group-title="BRAZIL",Record Rio RJ | HD
+http://supersonictv.live:8080/live/899559/316805/85252.m3u8
+#EXTINF:-1 tvg-id="RECORDRio(Portuguese).br(m3u4u)" tvg-name="Record RJ | HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76674_dark_360w_270h.png" group-title="BRAZIL",Record RJ | HD
+http://supersonictv.live:8080/live/899559/316805/85081.m3u8
+#EXTINF:-1 tvg-id="RECORDRS(Portuguese).br(m3u4u)" tvg-name="Record RS | HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76674_dark_360w_270h.png" group-title="BRAZIL",Record RS | HD
+http://supersonictv.live:8080/live/899559/316805/85082.m3u8
+#EXTINF:-1 tvg-id="RECORDRS(Portuguese).br(m3u4u)" tvg-name="Record RS | HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76674_dark_360w_270h.png" group-title="BRAZIL",Record RS | HD
+http://supersonictv.live:8080/live/899559/316805/85253.m3u8
+#EXTINF:-1 tvg-id="RECORDRS(Portuguese).br(m3u4u)" tvg-name="Record RS*" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76674_dark_360w_270h.png" group-title="BRAZIL",Record RS*
+http://supersonictv.live:8080/live/899559/316805/85083.m3u8
+#EXTINF:-1 tvg-id="RecordTV(Portuguese).br(m3u4u)" tvg-name="Record SC | HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76674_dark_360w_270h.png" group-title="BRAZIL",Record SC | HD
+http://supersonictv.live:8080/live/899559/316805/85254.m3u8
+#EXTINF:-1 tvg-id="RECORDSaoPaulo(Portuguese).br(m3u4u)" tvg-name="Record SP | HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76674_dark_360w_270h.png" group-title="BRAZIL",Record SP | HD
+http://supersonictv.live:8080/live/899559/316805/85084.m3u8
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo(Portuguese).br(m3u4u)" tvg-name="Record SP | HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76674_dark_360w_270h.png" group-title="BRAZIL",Record SP | HD
+http://supersonictv.live:8080/live/899559/316805/85256.m3u8
+#EXTINF:-1 tvg-id="RECORD(Portuguese).br(m3u4u)" tvg-name="Record*" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41479_dark_360w_270h.png" group-title="BRAZIL",Record*
+http://supersonictv.live:8080/live/899559/316805/85085.m3u8
+#EXTINF:-1 tvg-id="RedeFamilia(Portuguese).br(m3u4u)" tvg-name="Rede Família | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s55919_dark_360w_270h.png" group-title="BRAZIL",Rede Família | FHD
+http://supersonictv.live:8080/live/899559/316805/85259.m3u8
+#EXTINF:-1 tvg-id="RedeMinas(Portuguese).br(m3u4u)" tvg-name="Rede Minas | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110674_dark_360w_270h.png" group-title="BRAZIL",Rede Minas | FHD
+http://supersonictv.live:8080/live/899559/316805/85260.m3u8
+#EXTINF:-1 tvg-id="RedeTV(Portuguese).br(m3u4u)" tvg-name="RedeTV | 4K" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18122_dark_360w_270h.png" group-title="BRAZIL",RedeTV | 4K
+http://supersonictv.live:8080/live/899559/316805/85262.m3u8
+#EXTINF:-1 tvg-id="RedeTV(Portuguese).br(m3u4u)" tvg-name="RedeTV | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18122_dark_360w_270h.png" group-title="BRAZIL",RedeTV | FHD
+http://supersonictv.live:8080/live/899559/316805/85088.m3u8
+#EXTINF:-1 tvg-id="RedeTV(Portuguese).br(m3u4u)" tvg-name="RedeTV Atividade | HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18122_dark_360w_270h.png" group-title="BRAZIL",RedeTV Atividade | HD
+http://supersonictv.live:8080/live/899559/316805/85258.m3u8
+#EXTINF:-1 tvg-id="TVPampa(Portuguese).br(m3u4u)" tvg-name="RedeTV TV Pampa | HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104209_dark_360w_270h.png" group-title="BRAZIL",RedeTV TV Pampa | HD
+http://supersonictv.live:8080/live/899559/316805/85348.m3u8
+#EXTINF:-1 tvg-id="TVPampa(Portuguese).br(m3u4u)" tvg-name="RedeTV TV Pampa | HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104209_dark_360w_270h.png" group-title="BRAZIL",RedeTV TV Pampa | HD
+http://supersonictv.live:8080/live/899559/316805/85366.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Retro Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Retro_Music_TV_logo.png/800px-Retro_Music_TV_logo.png" group-title="BRAZIL",Retro Music
+http://supersonictv.live:8080/live/899559/316805/85263.m3u8
+#EXTINF:-1 tvg-id="RIT(Portuguese).br(m3u4u)" tvg-name="RIT TV | FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b6/LOGO_RIT_2022_colorido.png" group-title="BRAZIL",RIT TV | FHD
+http://supersonictv.live:8080/live/899559/316805/85264.m3u8
+#EXTINF:-1 tvg-id="RIT(Portuguese).br(m3u4u)" tvg-name="RIT TV | HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b6/LOGO_RIT_2022_colorido.png" group-title="BRAZIL",RIT TV | HD
+http://supersonictv.live:8080/live/899559/316805/85265.m3u8
+#EXTINF:-1 tvg-id="SBT(Portuguese).br(m3u4u)" tvg-name="SBT | 4K" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16529_dark_360w_270h.png" group-title="BRAZIL",SBT | 4K
+http://supersonictv.live:8080/live/899559/316805/85268.m3u8
+#EXTINF:-1 tvg-id="SBT(Portuguese).br(m3u4u)" tvg-name="SBT | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16529_dark_360w_270h.png" group-title="BRAZIL",SBT | FHD
+http://supersonictv.live:8080/live/899559/316805/85089.m3u8
+#EXTINF:-1 tvg-id="SBT(Portuguese).br(m3u4u)" tvg-name="SBT | HD²" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16529_dark_360w_270h.png" group-title="BRAZIL",SBT | HD²
+http://supersonictv.live:8080/live/899559/316805/85272.m3u8
+#EXTINF:-1 tvg-id="SBT(Portuguese).br(m3u4u)" tvg-name="SBT | SD²" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16529_dark_360w_270h.png" group-title="BRAZIL",SBT | SD²
+http://supersonictv.live:8080/live/899559/316805/85280.m3u8
+#EXTINF:-1 tvg-id="SBT(Portuguese).br(m3u4u)" tvg-name="SBT AM | HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16529_dark_360w_270h.png" group-title="BRAZIL",SBT AM | HD
+http://supersonictv.live:8080/live/899559/316805/85269.m3u8
+#EXTINF:-1 tvg-id="SBT(Portuguese).br(m3u4u)" tvg-name="SBT BA | HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16529_dark_360w_270h.png" group-title="BRAZIL",SBT BA | HD
+http://supersonictv.live:8080/live/899559/316805/85270.m3u8
+#EXTINF:-1 tvg-id="SBTTocantins(Portuguese).br(m3u4u)" tvg-name="SBT GO | HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16529_dark_360w_270h.png" group-title="BRAZIL",SBT GO | HD
+http://supersonictv.live:8080/live/899559/316805/85271.m3u8
+#EXTINF:-1 tvg-id="SBTSaoPaulo(Portuguese).br(m3u4u)" tvg-name="SBT Int SP | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16529_dark_360w_270h.png" group-title="BRAZIL",SBT Int SP | FHD
+http://supersonictv.live:8080/live/899559/316805/85273.m3u8
+#EXTINF:-1 tvg-id="SBT(Portuguese).br(m3u4u)" tvg-name="SBT MA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16529_dark_360w_270h.png" group-title="BRAZIL",SBT MA
+http://supersonictv.live:8080/live/899559/316805/85274.m3u8
+#EXTINF:-1 tvg-id="SBTCuiaba(Portuguese).br(m3u4u)" tvg-name="SBT MT | HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16529_dark_360w_270h.png" group-title="BRAZIL",SBT MT | HD
+http://supersonictv.live:8080/live/899559/316805/85275.m3u8
+#EXTINF:-1 tvg-id="SBT(Portuguese).br(m3u4u)" tvg-name="SBT PI | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16529_dark_360w_270h.png" group-title="BRAZIL",SBT PI | FHD
+http://supersonictv.live:8080/live/899559/316805/85276.m3u8
+#EXTINF:-1 tvg-id="SBT(Portuguese).br(m3u4u)" tvg-name="SBT PR | HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16529_dark_360w_270h.png" group-title="BRAZIL",SBT PR | HD
+http://supersonictv.live:8080/live/899559/316805/85277.m3u8
+#EXTINF:-1 tvg-id="SBTRio(Portuguese).br(m3u4u)" tvg-name="SBT RJ | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16529_dark_360w_270h.png" group-title="BRAZIL",SBT RJ | FHD
+http://supersonictv.live:8080/live/899559/316805/85278.m3u8
+#EXTINF:-1 tvg-id="SBTRS(Portuguese).br(m3u4u)" tvg-name="SBT RS | HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103756_dark_360w_270h.png" group-title="BRAZIL",SBT RS | HD
+http://supersonictv.live:8080/live/899559/316805/85279.m3u8
+#EXTINF:-1 tvg-id="SescTV(Portuguese).br(m3u4u)" tvg-name="SescTV | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s36939_dark_360w_270h.png" group-title="BRAZIL",SescTV | FHD
+http://supersonictv.live:8080/live/899559/316805/85281.m3u8
+#EXTINF:-1 tvg-id="SonyChannel(Portuguese).br(m3u4u)" tvg-name="Sony | FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Sony_Channel_2019_black_and_white_logo.svg/revision/latest/scale-to-width-down/250?cb=20191102025455" group-title="BRAZIL",Sony | FHD
+http://supersonictv.live:8080/live/899559/316805/85091.m3u8
+#EXTINF:-1 tvg-id="Space(Portuguese).br(m3u4u)" tvg-name="Space | 4K" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75598_dark_360w_270h.png" group-title="BRAZIL",Space | 4K
+http://supersonictv.live:8080/live/899559/316805/85282.m3u8
+#EXTINF:-1 tvg-id="Space(Portuguese).br(m3u4u)" tvg-name="Space | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75598_dark_360w_270h.png" group-title="BRAZIL",Space | FHD
+http://supersonictv.live:8080/live/899559/316805/85092.m3u8
+#EXTINF:-1 tvg-id="sportv(Portuguese).br(m3u4u)" tvg-name="SporTV | 4K" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s94567_dark_360w_270h.png" group-title="BRAZIL",SporTV | 4K
+http://supersonictv.live:8080/live/899559/316805/85283.m3u8
+#EXTINF:-1 tvg-id="sportv(Portuguese).br(m3u4u)" tvg-name="SporTV | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s94567_dark_360w_270h.png" group-title="BRAZIL",SporTV | FHD
+http://supersonictv.live:8080/live/899559/316805/85095.m3u8
+#EXTINF:-1 tvg-id="sportv2(Portuguese).br(m3u4u)" tvg-name="SporTV 2 | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s94568_dark_360w_270h.png" group-title="BRAZIL",SporTV 2 | FHD
+http://supersonictv.live:8080/live/899559/316805/85093.m3u8
+#EXTINF:-1 tvg-id="sportv3(Portuguese).br(m3u4u)" tvg-name="SporTV 3 | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s94570_dark_360w_270h.png" group-title="BRAZIL",SporTV 3 | FHD
+http://supersonictv.live:8080/live/899559/316805/85094.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="SporTV 4 | HD Olimpíadas" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/8/85/Stv24.jpg/revision/latest/scale-to-width-down/1200?cb=20240815025423&path-prefix=pt-br" group-title="BRAZIL",SporTV 4 | HD Olimpíadas
+http://supersonictv.live:8080/live/899559/316805/85387.m3u8
+#EXTINF:-1 tvg-id="StarChannel(Portuguese).br(m3u4u)" tvg-name="Star Channel | 4K" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75586_dark_360w_270h.png" group-title="BRAZIL",Star Channel | 4K
+http://supersonictv.live:8080/live/899559/316805/85284.m3u8
+#EXTINF:-1 tvg-id="StarChannel(Portuguese).br(m3u4u)" tvg-name="Star Channel | dual HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75586_dark_360w_270h.png" group-title="BRAZIL",Star Channel | dual HD
+http://supersonictv.live:8080/live/899559/316805/85285.m3u8
+#EXTINF:-1 tvg-id="StarChannel(Portuguese).br(m3u4u)" tvg-name="Star Channel | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75586_dark_360w_270h.png" group-title="BRAZIL",Star Channel | FHD
+http://supersonictv.live:8080/live/899559/316805/84986.m3u8
+#EXTINF:-1 tvg-id="StudioUniversal(Portuguese).br(m3u4u)" tvg-name="Studio Universal | dual HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16427_dark_360w_270h.png" group-title="BRAZIL",Studio Universal | dual HD
+http://supersonictv.live:8080/live/899559/316805/85286.m3u8
+#EXTINF:-1 tvg-id="StudioUniversal(Portuguese).br(m3u4u)" tvg-name="Studio Universal | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16427_dark_360w_270h.png" group-title="BRAZIL",Studio Universal | FHD
+http://supersonictv.live:8080/live/899559/316805/85096.m3u8
+#EXTINF:-1 tvg-id="SYFY(English).br(m3u4u)" tvg-name="SYFY - USA | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11097_dark_360w_270h.png" group-title="BRAZIL",SYFY - USA | FHD
+http://supersonictv.live:8080/live/899559/316805/85097.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Taormina TV | HD" tvg-logo="https://cdn.radiotaormina.it/static/2021/10/RADIO-TAORMINA-logo-white-T-300x86.png" group-title="BRAZIL",Taormina TV | HD
+http://supersonictv.live:8080/live/899559/316805/85288.m3u8
+#EXTINF:-1 tvg-id="TelecineAction(Portuguese).br(m3u4u)" tvg-name="TC Action | dual FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/TelecineAction2021.png" group-title="BRAZIL",TC Action | dual FHD
+http://supersonictv.live:8080/live/899559/316805/85289.m3u8
+#EXTINF:-1 tvg-id="TelecineAction(Portuguese).br(m3u4u)" tvg-name="TC Action | dual HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/TelecineAction2021.png" group-title="BRAZIL",TC Action | dual HD
+http://supersonictv.live:8080/live/899559/316805/85290.m3u8
+#EXTINF:-1 tvg-id="TelecineAction(Portuguese).br(m3u4u)" tvg-name="Tc Action | FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/TelecineAction2021.png" group-title="BRAZIL",Tc Action | FHD
+http://supersonictv.live:8080/live/899559/316805/85099.m3u8
+#EXTINF:-1 tvg-id="TelecineCult(Portuguese).br(m3u4u)" tvg-name="TC Cult | dual FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Telecine_Cult%282021%29.png" group-title="BRAZIL",TC Cult | dual FHD
+http://supersonictv.live:8080/live/899559/316805/85291.m3u8
+#EXTINF:-1 tvg-id="TelecineCult(Portuguese).br(m3u4u)" tvg-name="TC Cult | dual HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Telecine_Cult%282021%29.png" group-title="BRAZIL",TC Cult | dual HD
+http://supersonictv.live:8080/live/899559/316805/85292.m3u8
+#EXTINF:-1 tvg-id="TelecineCult(Portuguese).br(m3u4u)" tvg-name="TC Cult | FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Telecine_Cult%282021%29.png" group-title="BRAZIL",TC Cult | FHD
+http://supersonictv.live:8080/live/899559/316805/85100.m3u8
+#EXTINF:-1 tvg-id="TelecineFun(Portuguese).br(m3u4u)" tvg-name="TC Fun | dual FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telecine_Fun_%282021%29.png" group-title="BRAZIL",TC Fun | dual FHD
+http://supersonictv.live:8080/live/899559/316805/85293.m3u8
+#EXTINF:-1 tvg-id="TelecineFun(Portuguese).br(m3u4u)" tvg-name="TC Fun | dual HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telecine_Fun_%282021%29.png" group-title="BRAZIL",TC Fun | dual HD
+http://supersonictv.live:8080/live/899559/316805/85294.m3u8
+#EXTINF:-1 tvg-id="TelecineFun(Portuguese).br(m3u4u)" tvg-name="TC Fun | FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telecine_Fun_%282021%29.png" group-title="BRAZIL",TC Fun | FHD
+http://supersonictv.live:8080/live/899559/316805/85101.m3u8
+#EXTINF:-1 tvg-id="TelecinePipoca(Portuguese).br(m3u4u)" tvg-name="TC Pipoca | dual FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Telecine_Pipoca_%282021%29.png" group-title="BRAZIL",TC Pipoca | dual FHD
+http://supersonictv.live:8080/live/899559/316805/85295.m3u8
+#EXTINF:-1 tvg-id="TelecinePipoca(Portuguese).br(m3u4u)" tvg-name="TC Pipoca | dual HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Telecine_Pipoca_%282021%29.png" group-title="BRAZIL",TC Pipoca | dual HD
+http://supersonictv.live:8080/live/899559/316805/85296.m3u8
+#EXTINF:-1 tvg-id="TelecinePipoca(Portuguese).br(m3u4u)" tvg-name="TC Pipoca | FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Telecine_Pipoca_%282021%29.png" group-title="BRAZIL",TC Pipoca | FHD
+http://supersonictv.live:8080/live/899559/316805/85102.m3u8
+#EXTINF:-1 tvg-id="TelecinePremium(Portuguese).br(m3u4u)" tvg-name="TC Premium | 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Telecine_Premium_%282021%29.png" group-title="BRAZIL",TC Premium | 4K
+http://supersonictv.live:8080/live/899559/316805/85301.m3u8
+#EXTINF:-1 tvg-id="TelecinePremium(Portuguese).br(m3u4u)" tvg-name="TC Premium | dual FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Telecine_Premium_%282021%29.png" group-title="BRAZIL",TC Premium | dual FHD
+http://supersonictv.live:8080/live/899559/316805/85297.m3u8
+#EXTINF:-1 tvg-id="TelecinePremium(Portuguese).br(m3u4u)" tvg-name="TC Premium | dual HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Telecine_Premium_%282021%29.png" group-title="BRAZIL",TC Premium | dual HD
+http://supersonictv.live:8080/live/899559/316805/85298.m3u8
+#EXTINF:-1 tvg-id="TelecinePremium(Portuguese).br(m3u4u)" tvg-name="TC Premium | FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Telecine_Premium_%282021%29.png" group-title="BRAZIL",TC Premium | FHD
+http://supersonictv.live:8080/live/899559/316805/85103.m3u8
+#EXTINF:-1 tvg-id="TelecineTouch(Portuguese).br(m3u4u)" tvg-name="TC Touch | dual FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telecine_Touch_%282021%29.png" group-title="BRAZIL",TC Touch | dual FHD
+http://supersonictv.live:8080/live/899559/316805/85299.m3u8
+#EXTINF:-1 tvg-id="TelecineTouch(Portuguese).br(m3u4u)" tvg-name="TC Touch | dual HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telecine_Touch_%282021%29.png" group-title="BRAZIL",TC Touch | dual HD
+http://supersonictv.live:8080/live/899559/316805/85300.m3u8
+#EXTINF:-1 tvg-id="TelecineTouch(Portuguese).br(m3u4u)" tvg-name="TC Touch | FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telecine_Touch_%282021%29.png" group-title="BRAZIL",TC Touch | FHD
+http://supersonictv.live:8080/live/899559/316805/85104.m3u8
+#EXTINF:-1 tvg-id="TCM(Portuguese).br(m3u4u)" tvg-name="TCM | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56102_dark_360w_270h.png" group-title="BRAZIL",TCM | FHD
+http://supersonictv.live:8080/live/899559/316805/85105.m3u8
+#EXTINF:-1 tvg-id="TNT(Portuguese).br(m3u4u)" tvg-name="TNT | 4K" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75606_dark_360w_270h.png" group-title="BRAZIL",TNT | 4K
+http://supersonictv.live:8080/live/899559/316805/85305.m3u8
+#EXTINF:-1 tvg-id="TNT(Portuguese).br(m3u4u)" tvg-name="TNT | dual FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75606_dark_360w_270h.png" group-title="BRAZIL",TNT | dual FHD
+http://supersonictv.live:8080/live/899559/316805/85306.m3u8
+#EXTINF:-1 tvg-id="TNT(Portuguese).br(m3u4u)" tvg-name="TNT | dual HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75606_dark_360w_270h.png" group-title="BRAZIL",TNT | dual HD
+http://supersonictv.live:8080/live/899559/316805/85307.m3u8
+#EXTINF:-1 tvg-id="TNT(Portuguese).br(m3u4u)" tvg-name="TNT | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75606_dark_360w_270h.png" group-title="BRAZIL",TNT | FHD
+http://supersonictv.live:8080/live/899559/316805/85108.m3u8
+#EXTINF:-1 tvg-id="TBS(English).br(m3u4u)" tvg-name="TNT Novelas | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75073_dark_360w_270h.png" group-title="BRAZIL",TNT Novelas | FHD
+http://supersonictv.live:8080/live/899559/316805/85098.m3u8
+#EXTINF:-1 tvg-id="TNTSeries(Portuguese).br(m3u4u)" tvg-name="TNT Séries | 4K" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="BRAZIL",TNT Séries | 4K
+http://supersonictv.live:8080/live/899559/316805/85308.m3u8
+#EXTINF:-1 tvg-id="TNTSeries(Portuguese).br(m3u4u)" tvg-name="TNT Séries | dual HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="BRAZIL",TNT Séries | dual HD
+http://supersonictv.live:8080/live/899559/316805/85309.m3u8
+#EXTINF:-1 tvg-id="TNTSeries(English).br(m3u4u)" tvg-name="TNT Séries | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="BRAZIL",TNT Séries | FHD
+http://supersonictv.live:8080/live/899559/316805/85109.m3u8
+#EXTINF:-1 tvg-id="EsporteInterativo(Portuguese).br(m3u4u)" tvg-name="TNT Sports 1 | HD" tvg-logo="https://tntsports.com.br/__export/1717079325873/sites/esporteinterativo/arte/apps/precomposed_20240530.png_285119621.png" group-title="BRAZIL",TNT Sports 1 | HD
+http://supersonictv.live:8080/live/899559/316805/85310.m3u8
+#EXTINF:-1 tvg-id="EsporteInterativo(Portuguese).br(m3u4u)" tvg-name="TNT Sports 1 | SD" tvg-logo="https://tntsports.com.br/__export/1717079325873/sites/esporteinterativo/arte/apps/precomposed_20240530.png_285119621.png" group-title="BRAZIL",TNT Sports 1 | SD
+http://supersonictv.live:8080/live/899559/316805/85311.m3u8
+#EXTINF:-1 tvg-id="EsporteInterativo(Portuguese).br(m3u4u)" tvg-name="TNT Sports 2 | HD" tvg-logo="https://tntsports.com.br/__export/1717079325873/sites/esporteinterativo/arte/apps/precomposed_20240530.png_285119621.png" group-title="BRAZIL",TNT Sports 2 | HD
+http://supersonictv.live:8080/live/899559/316805/85312.m3u8
+#EXTINF:-1 tvg-id="EsporteInterativo(Portuguese).br(m3u4u)" tvg-name="TNT Sports 2 | SD" tvg-logo="https://tntsports.com.br/__export/1717079325873/sites/esporteinterativo/arte/apps/precomposed_20240530.png_285119621.png" group-title="BRAZIL",TNT Sports 2 | SD
+http://supersonictv.live:8080/live/899559/316805/85313.m3u8
+#EXTINF:-1 tvg-id="EsporteInterativo(Portuguese).br(m3u4u)" tvg-name="TNT Sports 3 | HD" tvg-logo="https://tntsports.com.br/__export/1717079325873/sites/esporteinterativo/arte/apps/precomposed_20240530.png_285119621.png" group-title="BRAZIL",TNT Sports 3 | HD
+http://supersonictv.live:8080/live/899559/316805/85314.m3u8
+#EXTINF:-1 tvg-id="EsporteInterativo(Portuguese).br(m3u4u)" tvg-name="TNT Sports 3 | SD" tvg-logo="https://tntsports.com.br/__export/1717079325873/sites/esporteinterativo/arte/apps/precomposed_20240530.png_285119621.png" group-title="BRAZIL",TNT Sports 3 | SD
+http://supersonictv.live:8080/live/899559/316805/85315.m3u8
+#EXTINF:-1 tvg-id="EsporteInterativo(Portuguese).br(m3u4u)" tvg-name="TNT Sports 4 | HD" tvg-logo="https://tntsports.com.br/__export/1717079325873/sites/esporteinterativo/arte/apps/precomposed_20240530.png_285119621.png" group-title="BRAZIL",TNT Sports 4 | HD
+http://supersonictv.live:8080/live/899559/316805/85316.m3u8
+#EXTINF:-1 tvg-id="EsporteInterativo(Portuguese).br(m3u4u)" tvg-name="TNT Sports 4 | SD" tvg-logo="https://tntsports.com.br/__export/1717079325873/sites/esporteinterativo/arte/apps/precomposed_20240530.png_285119621.png" group-title="BRAZIL",TNT Sports 4 | SD
+http://supersonictv.live:8080/live/899559/316805/85317.m3u8
+#EXTINF:-1 tvg-id="EsporteInterativo(Portuguese).br(m3u4u)" tvg-name="TNT Sports 5 | HD" tvg-logo="https://tntsports.com.br/__export/1717079325873/sites/esporteinterativo/arte/apps/precomposed_20240530.png_285119621.png" group-title="BRAZIL",TNT Sports 5 | HD
+http://supersonictv.live:8080/live/899559/316805/85318.m3u8
+#EXTINF:-1 tvg-id="EsporteInterativo(Portuguese).br(m3u4u)" tvg-name="TNT Sports 5 | SD" tvg-logo="https://tntsports.com.br/__export/1717079325873/sites/esporteinterativo/arte/apps/precomposed_20240530.png_285119621.png" group-title="BRAZIL",TNT Sports 5 | SD
+http://supersonictv.live:8080/live/899559/316805/85319.m3u8
+#EXTINF:-1 tvg-id="EsporteInterativo(Portuguese).br(m3u4u)" tvg-name="TNT Sports 6 | HD" tvg-logo="https://tntsports.com.br/__export/1717079325873/sites/esporteinterativo/arte/apps/precomposed_20240530.png_285119621.png" group-title="BRAZIL",TNT Sports 6 | HD
+http://supersonictv.live:8080/live/899559/316805/85320.m3u8
+#EXTINF:-1 tvg-id="EsporteInterativo(Portuguese).br(m3u4u)" tvg-name="TNT Sports 6 | SD" tvg-logo="https://tntsports.com.br/__export/1717079325873/sites/esporteinterativo/arte/apps/precomposed_20240530.png_285119621.png" group-title="BRAZIL",TNT Sports 6 | SD
+http://supersonictv.live:8080/live/899559/316805/85321.m3u8
+#EXTINF:-1 tvg-id="EsporteInterativo(Portuguese).br(m3u4u)" tvg-name="TNT Sports 7 | HD" tvg-logo="https://tntsports.com.br/__export/1717079325873/sites/esporteinterativo/arte/apps/precomposed_20240530.png_285119621.png" group-title="BRAZIL",TNT Sports 7 | HD
+http://supersonictv.live:8080/live/899559/316805/85322.m3u8
+#EXTINF:-1 tvg-id="EsporteInterativo(Portuguese).br(m3u4u)" tvg-name="TNT Sports 7 | SD" tvg-logo="https://tntsports.com.br/__export/1717079325873/sites/esporteinterativo/arte/apps/precomposed_20240530.png_285119621.png" group-title="BRAZIL",TNT Sports 7 | SD
+http://supersonictv.live:8080/live/899559/316805/85323.m3u8
+#EXTINF:-1 tvg-id="EsporteInterativo(Portuguese).br(m3u4u)" tvg-name="TNT Sports 8 | HD" tvg-logo="https://tntsports.com.br/__export/1717079325873/sites/esporteinterativo/arte/apps/precomposed_20240530.png_285119621.png" group-title="BRAZIL",TNT Sports 8 | HD
+http://supersonictv.live:8080/live/899559/316805/85324.m3u8
+#EXTINF:-1 tvg-id="EsporteInterativo(Portuguese).br(m3u4u)" tvg-name="TNT Sports 8 | SD" tvg-logo="https://tntsports.com.br/__export/1717079325873/sites/esporteinterativo/arte/apps/precomposed_20240530.png_285119621.png" group-title="BRAZIL",TNT Sports 8 | SD
+http://supersonictv.live:8080/live/899559/316805/85325.m3u8
+#EXTINF:-1 tvg-id="Tooncast(Portuguese).br(m3u4u)" tvg-name="Tooncast | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83240_dark_360w_270h.png" group-title="BRAZIL",Tooncast | FHD
+http://supersonictv.live:8080/live/899559/316805/85110.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Tru TV | FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="BRAZIL",Tru TV | FHD
+http://supersonictv.live:8080/live/899559/316805/85111.m3u8
+#EXTINF:-1 tvg-id="TVBrasil(Portuguese).br(m3u4u)" tvg-name="TV Brasil | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20750_dark_360w_270h.png" group-title="BRAZIL",TV Brasil | FHD
+http://supersonictv.live:8080/live/899559/316805/85330.m3u8
+#EXTINF:-1 tvg-id="TVBrasil(Portuguese).br(m3u4u)" tvg-name="TV Brasil 2 | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20750_dark_360w_270h.png" group-title="BRAZIL",TV Brasil 2 | FHD
+http://supersonictv.live:8080/live/899559/316805/85329.m3u8
+#EXTINF:-1 tvg-id="TVDiario(Portuguese).br(m3u4u)" tvg-name="TV Diario | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99363_dark_360w_270h.png" group-title="BRAZIL",TV Diario | FHD
+http://supersonictv.live:8080/live/899559/316805/85112.m3u8
+#EXTINF:-1 tvg-id="TVRaTimBum(Portuguese).br(m3u4u)" tvg-name="TV Ra Tim Bum | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56131_dark_360w_270h.png" group-title="BRAZIL",TV Ra Tim Bum | FHD
+http://supersonictv.live:8080/live/899559/316805/85115.m3u8
+#EXTINF:-1 tvg-id="TVE(Spanish).br(m3u4u)" tvg-name="TVE | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76112_dark_360w_270h.png" group-title="BRAZIL",TVE | FHD
+http://supersonictv.live:8080/live/899559/316805/85352.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Unique TV | HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHdnvQolLftAkOsTmUlZ06r54Zd83orl1ZLA&s" group-title="BRAZIL",Unique TV | HD
+http://supersonictv.live:8080/live/899559/316805/85374.m3u8
+#EXTINF:-1 tvg-id="UniversalTV(Portuguese).br(m3u4u)" tvg-name="Universal Channel | FHD" tvg-logo="https://seeklogo.com/images/U/universal-tv-logo-E785C73128-seeklogo.com.png" group-title="BRAZIL",Universal Channel | FHD
+http://supersonictv.live:8080/live/899559/316805/85119.m3u8
+#EXTINF:-1 tvg-id="UniversalTV(Portuguese).br(m3u4u)" tvg-name="Universal TV | dual HD" tvg-logo="https://seeklogo.com/images/U/universal-tv-logo-E785C73128-seeklogo.com.png" group-title="BRAZIL",Universal TV | dual HD
+http://supersonictv.live:8080/live/899559/316805/85354.m3u8
+#EXTINF:-1 tvg-id="VH1Euro(Portuguese).br(m3u4u)" tvg-name="VH1 | HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74162_dark_360w_270h.png" group-title="BRAZIL",VH1 | HD
+http://supersonictv.live:8080/live/899559/316805/85355.m3u8
+#EXTINF:-1 tvg-id="VH1Megahits(Spanish).br(m3u4u)" tvg-name="VH1 Mega Hits | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74162_dark_360w_270h.png" group-title="BRAZIL",VH1 Mega Hits | FHD
+http://supersonictv.live:8080/live/899559/316805/85120.m3u8
+#EXTINF:-1 tvg-id="VIVA(Portuguese).br(m3u4u)" tvg-name="Viva | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s94120_dark_360w_270h.png" group-title="BRAZIL",Viva | FHD
+http://supersonictv.live:8080/live/899559/316805/85121.m3u8
+#EXTINF:-1 tvg-id="Warner(Portuguese).br(m3u4u)" tvg-name="Warner Channel | dual HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16214_dark_360w_270h.png" group-title="BRAZIL",Warner Channel | dual HD
+http://supersonictv.live:8080/live/899559/316805/85356.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel(Portuguese).br(m3u4u)" tvg-name="Warner Channel | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16214_dark_360w_270h.png" group-title="BRAZIL",Warner Channel | FHD
+http://supersonictv.live:8080/live/899559/316805/85122.m3u8
+#EXTINF:-1 tvg-id="WooHoo(Portuguese).br(m3u4u)" tvg-name="Wohoo | FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77820_dark_360w_270h.png" group-title="BRAZIL",Wohoo | FHD
+http://supersonictv.live:8080/live/899559/316805/85123.m3u8
+#EXTINF:-1 tvg-id="ZooMooKids(Portuguese).br(m3u4u)" tvg-name="ZooMoo | HD" tvg-logo="https://static.wikia.nocookie.net/canais-infantis/images/a/ae/ZooMoo_Kids_%282022%29.png/revision/latest/thumbnail/width/360/height/360?cb=20231125142557&path-prefix=pt-br" group-title="BRAZIL",ZooMoo | HD
+http://supersonictv.live:8080/live/899559/316805/85359.m3u8
+#EXTINF:-1 tvg-id="ZooMooKids(Portuguese).br(m3u4u)" tvg-name="ZooMoo | SD" tvg-logo="https://static.wikia.nocookie.net/canais-infantis/images/a/ae/ZooMoo_Kids_%282022%29.png/revision/latest/thumbnail/width/360/height/360?cb=20231125142557&path-prefix=pt-br" group-title="BRAZIL",ZooMoo | SD
+http://supersonictv.live:8080/live/899559/316805/85360.m3u8
